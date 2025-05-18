@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeDB</string>
+    <string name="recipe_description">RecipeDescription</string>
+    <string name="recipe_video">RecipeVideo</string>
+</resources>
